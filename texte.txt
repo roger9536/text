@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF-1
+https://tinyurl.com/4hfbwzrj
+#EXTINF-2
+https://tinyurl.com/ymjd98cz
+#EXTINF-3
+https://tinyurl.com/2a62st5c
+#EXTINF-4
+https://tinyurl.com/mr3rsbxe
+
+
+
